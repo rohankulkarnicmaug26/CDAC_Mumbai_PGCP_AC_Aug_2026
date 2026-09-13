@@ -1,1 +1,28 @@
+# For Loop Assignment
 
+This repository contains Java programs based on the For Loop concept.
+
+## Programs
+
+1. Odd Numbers
+2. Even Numbers
+3. Every Seventh Number
+4. Increasing Star Pattern
+5. Decreasing Star Pattern
+6. Continuous Number Pattern
+7. Number Triangle Pattern
+8. Reverse Number Pattern
+
+## Technologies Used
+
+- Java
+- Eclipse IDE
+
+## Topics Covered
+
+- for loop
+- nested for loop
+- if condition
+- modulo operator
+- pattern printing
+- Console Input
