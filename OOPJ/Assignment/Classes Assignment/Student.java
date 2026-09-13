@@ -15,7 +15,7 @@ public class Student
         
         objStudent1.roll_no = 2;
         
-        objStudent1.name = "John";
+        objStudent1.name = "Rohan";
 
         System.out.println("Student 1: ");
         System.out.println("Roll No: " + objStudent1.roll_no);
